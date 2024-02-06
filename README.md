@@ -5,11 +5,11 @@ This features a collection of delicious recipes for you to explore.
 
 ## Getting Started
 
-1. Navigate to <a href= "https://preeminent-fudge-5317a9.netlify.app/"> Devyani's Cookbook </a> to discover about my featured recipes.
+1. Navigate to <a href= "https://cookbookbydevyani.netlify.app/"> Devyani's Cookbook </a> to discover about my featured recipes.
 2. Click on a recipe to view its details, ingredients, and instructions.
 
 ## Featured Recipe: Banoffee Pie
 
-- <a href= "https://preeminent-fudge-5317a9.netlify.app/recipe"> Banoffee Pie Recipe </a>
+- <a href= "https://cookbookbydevyani.netlify.app/recipe1"> Banoffee Pie Recipe </a>
 
 Happy Cooking!
